@@ -2,4 +2,5 @@
 1. Clean code
 2. Intelligent investor
 3. Security analysis
-4. Pragmatic programmers
+4. One up on wall street
+5. Pragmatic programmers
