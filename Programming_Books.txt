@@ -1,5 +1,5 @@
 1.  Intelligent investor
-2.   Clean code
+2.  Clean Code
 3.  Security analysis
 4.  One up on wall street
 5.  Pragmatic programmers
