@@ -13,6 +13,9 @@
 12.Rich Dad Poor Dad
 13.Common stocks and uncommon profits
 14.Capital Ideas
+<<<<<<< HEAD
 15. RANDOM FILE
 16. RANDOM FILE 2
 17. Business Adventures
+=======
+>>>>>>> f6590430475f6ca2b4531036a8055933555b74c0
