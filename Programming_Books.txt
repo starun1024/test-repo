@@ -1,12 +1,12 @@
-1. Clean code
-2. Intelligent investor
-3. Security analysis
-4. One up on wall street
-5. Pragmatic programmers
-6. Street Smart
-7. Effective Java
-8. Java performance
-9. Finance book 1
+1.  Clean code
+2.  Intelligent investor
+3.  Security analysis
+4.  One up on wall street
+5.  Pragmatic programmers
+6.  Street Smart
+7.  Effective Java
+8.  Java performance
+9.  Finance book 1
 10. Coding book 1
 11. Finance book2
 12. FINANCE BOOK3
@@ -15,4 +15,4 @@
 15. Capital Ideas
 16. NEE file name
 17. Random file
-18. Value investor
+18.  Value investor
