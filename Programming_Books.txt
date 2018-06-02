@@ -6,3 +6,4 @@
 5. Pragmatic programmers
 6. Street Smart
 7. Effective Java
+8. Java performance
